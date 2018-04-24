@@ -1,0 +1,12 @@
+c:\users\bernard lao\documents\visual studio 2012\Projects\Academic_Solution_NPC\Academic_Solution_NPC\bin\Debug\Academic_Solution_NPC.exe.config
+D:\Academic_Solution_NPC\Academic_Solution_NPC\bin\Debug\Academic_Solution_NPC.exe.config
+D:\Academic_Solution_NPC\Academic_Solution_NPC\bin\Debug\Academic_Solution_NPC.exe
+D:\Academic_Solution_NPC\Academic_Solution_NPC\bin\Debug\Academic_Solution_NPC.pdb
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.csprojResolveAssemblyReference.cache
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.frmClassScheduler.resources
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.frmMain.resources
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.Properties.Resources.resources
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.csproj.GenerateResource.Cache
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.exe
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.pdb
+D:\Academic_Solution_NPC\Academic_Solution_NPC\obj\Debug\Academic_Solution_NPC.frmRoomView.resources
